@@ -1,0 +1,137 @@
+body{
+    background: #BEBFC5
+  }
+  .form{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #FFFFFF;
+   background:	#FFFFFF;
+   width: 450px;
+   height: 410px;
+   border-radius: 10px;
+   margin-top: 10px;
+  }
+  img{
+    margin-top: 50px;
+    display: block;
+    margin-left: 50px;
+    height: 30px;
+  }
+  .hdgs{
+    font-size: 35px;
+    font-family:  sans-serif;
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .input1{
+    font-family:  sans-serif;
+    padding-top: 10px;
+    padding-left: 20px;
+  }
+  .epn{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;
+    border-radius: 5px;
+    height: 25px;
+  }
+  .input2{
+    font-family:  sans-serif;
+    padding-top: 5px;
+    padding-left: 20px;
+  }
+  .psw{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;
+    border-radius: 5px;
+    height: 25px;
+  }
+  .app{
+    font-size: 14px;
+    font-family:  sans-serif;
+    text-align: center
+  }
+  .button1{
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    height: 40px;
+    background:	#0000FF;
+    color: #FFFFFF;
+  }
+  .page{
+    text-align: center;
+  }
+  .or{
+    text-align: center;
+    height: 30px;
+    color:	#9090C0;
+    margin: -23px 10px 0px 10px;
+  }
+  .wrap {
+    display: flex;
+    margin: 20px 0px 0px 86px
+  }
+  span{
+    width : 130px;
+    height: 1px;
+    background:	#9090C0;
+  }
+  .gimg{
+    text-align:center;
+   
+  }
+  .button2{
+    width: 396px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    height: 50px;
+    background:	#FFFFFF;
+    color: #2A3439;
+  }
+  .p3{
+    display: block;
+    margin-top: 20px;
+    border-radius: 20px;
+    background:	#FFFFFF;
+    color: #2A3439;
+    text-align:center;
+  }
+  .gl{
+    padding-top: auto;
+    padding-buttom: auto;
+    display: block;
+  }
+  
+   .contain{
+      width: 200px;
+  }
+  
+  .line {
+    height : 1px;
+    width: 10px;
+    background:	#9090C0;
+  }
+  .img{
+  
+    width: 25px;
+    height: 25px;
+    margin-right:10px;
+    margin-bottom: -20px; 
+    margin-top:10px;
+    padding-left:45px;
+  }
+  
